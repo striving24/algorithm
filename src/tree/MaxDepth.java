@@ -61,5 +61,6 @@ public class MaxDepth {
     public static void main(String[] args) {
         System.out.println("努力多一点");
         System.out.println("努力多一点");
+        System.out.println("push-test");
     }
 }

@@ -58,4 +58,9 @@ public class MaxDepth {
         int res = Math.max(left, right)+1;
         return res;
     }
+    public static void main(String[] args) {
+        System.out.println("努力多一点");
+        System.out.println("努力多一点");
+        System.out.println("push-test");
+    }
 }
